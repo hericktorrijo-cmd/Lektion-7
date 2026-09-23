@@ -1,6 +1,7 @@
 ﻿HälsaAnvändare("Herick");
 
-
+Console.WriteLine("\n\nTryck på valfri tangent för att stänga konsolen...");
+Console.ReadKey();
 
 static void HälsaAnvändare(string name)
 {
