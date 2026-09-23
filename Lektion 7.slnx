@@ -1,3 +1,4 @@
 <Solution>
   <Project Path="01 Hälsningsroboten/01 Hälsningsroboten.csproj" />
+  <Project Path="02 SkrivLinje/02 SkrivLinje.csproj" />
 </Solution>
