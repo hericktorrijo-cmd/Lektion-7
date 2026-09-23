@@ -3,4 +3,5 @@
   <Project Path="02 SkrivLinje/02 SkrivLinje.csproj" />
   <Project Path="03 Personlig hälsning/03 Personlig hälsning.csproj" />
   <Project Path="04 Temperaturtips/04 Temperaturtips.csproj" />
+  <Project Path="05 Tärningskastet/05 Tärningskastet.csproj" />
 </Solution>
