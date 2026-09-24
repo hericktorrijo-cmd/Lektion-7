@@ -6,4 +6,5 @@
   <Project Path="05 Tärningskastet/05 Tärningskastet.csproj" />
   <Project Path="06 Kvittobyggaren/06 Kvittobyggaren.csproj" />
   <Project Path="07 Säker textinmatning/07 Säker textinmatning.csproj" />
+  <Project Path="08 Validera e-post/08 Validera e-post.csproj" Id="5fbe1df8-e49e-415d-b480-b866a430a6c4" />
 </Solution>
