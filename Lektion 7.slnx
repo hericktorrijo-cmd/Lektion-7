@@ -9,4 +9,5 @@
   <Project Path="08 Validera e-post/08 Validera e-post.csproj" Id="5fbe1df8-e49e-415d-b480-b866a430a6c4" />
   <Project Path="09 Betygskalkylatorn/09 Betygskalkylatorn.csproj" Id="c57e4a89-be26-49b5-b8cd-8a8ad6d3cc71" />
   <Project Path="10 Standardmeddelande/10 Standardmeddelande.csproj" Id="2cab5cfb-142f-41d0-b6b7-2e20284b6132" />
+  <Project Path="11 Säker sifferläsare/11 Säker sifferläsare.csproj" Id="46cb17aa-29ea-4070-b9fd-187069acc0b4" />
 </Solution>
